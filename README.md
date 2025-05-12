@@ -6,7 +6,7 @@
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** – PUC  
 💻 **Estudando Back-End** com foco em APIs, banco de dados e boas práticas  
 🛠️ **Estagiária de T.I Back-End (Trainee)**  
-📍 Brasil | 🌱 Em constante evolução
+📍 Curitiba | 🌱 Em constante evolução
 
 ---
 
