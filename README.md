@@ -11,32 +11,26 @@
 ---
 
 ### 🚀 &nbsp;Minhas stacks atuais:
-- 💻 Java | JavaScript | Python
+- 💻 HTML/CSS | JavaScript | Python | C#| Java
 - 🧪 SQL | PostgreSQL
 - 🌐 Node.js (aprendendo)
 - 🛠️ Git & GitHub
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seuUserAqui&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuUserAqui&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ### 🌸 &nbsp;Aprendizados e Objetivos
 - Construir APIs RESTful com boas práticas
 - Aprender sobre arquitetura de software
-- Conquistar minha primeira vaga como Dev Back-End Junior
+
 
 ---
 
 ### 📫 &nbsp;Contato
-- Email: melissa@email.com  
-- LinkedIn: [seu-linkedin-aqui](https://linkedin.com/in/seulinkedin)  
-- Instagram: [@seuuser](https://instagram.com/seuuser)
+- Email: melissamyukamcc@email.com  
+- LinkedIn: https://www.linkedin.com/in/melissa-cardoso-b3990828a/
+
 
 ---
 
