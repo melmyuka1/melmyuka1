@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou a Melissa 👋</h1>
+<h3 align="center">Codifique o futuro. Seja a inovação.</h3>
 
-<!--
-**melmyuka1/melmyuka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** – PUC  
+💻 **Estudando Back-End** com foco em APIs, banco de dados e boas práticas  
+🛠️ **Estagiária de T.I Back-End (Trainee)**  
+📍 Brasil | 🌱 Em constante evolução
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 &nbsp;Minhas stacks atuais:
+- 💻 Java | JavaScript | Python
+- 🧪 SQL | PostgreSQL
+- 🌐 Node.js (aprendendo)
+- 🛠️ Git & GitHub
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seuUserAqui&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuUserAqui&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌸 &nbsp;Aprendizados e Objetivos
+- Construir APIs RESTful com boas práticas
+- Aprender sobre arquitetura de software
+- Conquistar minha primeira vaga como Dev Back-End Junior
+
+---
+
+### 📫 &nbsp;Contato
+- Email: melissa@email.com  
+- LinkedIn: [seu-linkedin-aqui](https://linkedin.com/in/seulinkedin)  
+- Instagram: [@seuuser](https://instagram.com/seuuser)
+
+---
+
+<p align="center"><i>"Algumas coisas precisam mudar."</i></p>
