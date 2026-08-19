@@ -5,16 +5,16 @@
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** – PUC  
 💻 **Estudando Back-End** com foco em APIs, banco de dados e boas práticas  
-🛠️ **Estagiária de T.I Back-End (Trainee)**  
+🛠️** Desenvolvedora FullStack**
 📍 Curitiba | 🌱 Em constante evolução
 
 ---
 
 ### 🚀 &nbsp;Minhas stacks atuais:
-- 💻 HTML/CSS | JavaScript | Python | C#| Java
-- 🧪 SQL | PostgreSQL
+- 💻 HTML/CSS | JavaScript | Python | C#| Java |Dotnet
+- 🧪 SQL | PostgreSQL | MongoDB | noSQL
 - 🌐 Node.js (aprendendo)
-- 🛠️ Git & GitHub
+- 🛠️ Git & GitHub | Graffana | Kibanna| ElasticSearch| 
 
 ---
 
